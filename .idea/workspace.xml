@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbcc3bfc-cc24-4c2b-af73-ddc492ca070b" name="Changes" comment="Atualização Port">
+      <change afterPath="$PROJECT_DIR$/images/portfolio/MentHA.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684604693343</updated>
       <workItem from="1684604695334" duration="412000" />
-      <workItem from="1684605120220" duration="9055000" />
+      <workItem from="1684605120220" duration="9671000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização Port">
       <created>1684605251503</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684616143886</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização Port">
+      <created>1684618918661</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684618918661</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
