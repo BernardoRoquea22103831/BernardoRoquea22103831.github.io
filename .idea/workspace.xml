@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbcc3bfc-cc24-4c2b-af73-ddc492ca070b" name="Changes" comment="Atualização Port" />
+    <list default="true" id="cbcc3bfc-cc24-4c2b-af73-ddc492ca070b" name="Changes" comment="Atualização Port">
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684604693343</updated>
       <workItem from="1684604695334" duration="412000" />
-      <workItem from="1684605120220" duration="300000" />
+      <workItem from="1684605120220" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização Port">
       <created>1684605251503</created>
@@ -74,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684605251503</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualização Port">
+      <created>1684605792963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684605792963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
