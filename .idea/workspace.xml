@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684604693343</updated>
       <workItem from="1684604695334" duration="412000" />
-      <workItem from="1684605120220" duration="6996000" />
+      <workItem from="1684605120220" duration="9055000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização Port">
       <created>1684605251503</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684614121988</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Atualização Port">
+      <created>1684616143886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684616143886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
